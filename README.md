@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" height=400 width=1000>
+<img src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif" height=300 width=1000>
 
 ## Hi 👋, I'm Mohammad Lashkari
 
