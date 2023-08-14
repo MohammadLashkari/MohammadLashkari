@@ -6,6 +6,5 @@
 
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> **Skills & Tools**
-<a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,java,python,cpp,firebase,figma,mysql,postgres,sqlite,bash,vim,latex,markdown,git&theme=dark"/> </a>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> **Tech Stack**
+<img src="https://skillicons.dev/icons?i=dart,flutter,java,python,cpp,firebase,figma,mysql,postgres,sqlite,bash,vim,latex,markdown,git&theme=dark"/>
