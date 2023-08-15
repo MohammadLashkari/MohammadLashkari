@@ -2,8 +2,6 @@
 
 I'm Mohammad - Currently, I am studying Computer Engineering, and I'm so interested in Dart/Flutter.
 
----
-
 <br></br>
 
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"/> Tech Stack
