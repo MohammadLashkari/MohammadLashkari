@@ -6,8 +6,8 @@ I'm Mohammad - Currently, I am studying Computer Engineering, and I'm very inter
 
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"/> Tech Stack
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,java,python,cpp,firebase,supabase,figma,postgres,mongodb,docker,git,bash,vim&theme=dark"/>
-  
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,go,java,python,cpp,firebase,supabase,postgres,mongodb,docker,git,bash,vim&theme=dark)](https://skillicons.dev)
+
 <br></br>
   
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Stats
