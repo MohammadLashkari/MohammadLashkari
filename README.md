@@ -5,7 +5,7 @@ Computer Science student eager to learn and passionate about Go, Flutter, and Li
 
 # <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"/> Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,dart,flutter,firebase,supabase,postgres,mongodb,docker,git,neovim&theme=dark)](https://skillicons.dev) (btw)
+[![My Skills](https://skillicons.dev/icons?i=go,htmx,dart,flutter,firebase,supabase,postgres,mysql,mongodb,docker,git,neovim&theme=dark)](https://skillicons.dev) (btw)
 
   
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Stats
