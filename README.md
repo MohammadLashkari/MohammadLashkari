@@ -1,12 +1,1 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Computer Science student eager to learn and passionate about Go, Flutter, and Linux.
-
-<br></br>
-
-# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="27"/> Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=go,htmx,dart,flutter,firebase,supabase,postgres,mysql,mongodb,docker,git,neovim&theme=dark)](https://skillicons.dev) (btw)
-
-  
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Stats
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadLashkari&theme=react&hide_border=true"/>
+Hi, I'm Mohammad. I enjoy solving problems and building things, I'm curious about how things work under the hood, and I'm always excited to learn something new.
